@@ -35,7 +35,7 @@ I'm **Akash Yadav**, a passionate **Python Developer** and **B.Tech student at C
 
 ### Databases
 
-* SQLite
+* Postgres
 * MySQL
 
 ---
