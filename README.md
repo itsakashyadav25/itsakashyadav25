@@ -51,7 +51,7 @@ I'm **Akash Yadav**, a passionate **Python Developer** and **B.Tech student at C
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/itsakashyadav25/
 * LinkedIn: https://linkedin.com/in/your-linkedin
 
 ---
